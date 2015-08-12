@@ -1,2 +1,2 @@
 # Polar
-Polar ： Extreme, focus
+Polar -  Extreme focus
