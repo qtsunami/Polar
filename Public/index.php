@@ -1,9 +1,7 @@
 <?php
+DEFINE('APP_PATH', __DIR__ . '../Application/');
 
-require_once "config/config.php";
-//visit space
-$conf['ctrl']['workspace_1'] = 'application';
-require_once "Dui.php";
+require_once "Polar.php";
 
 Polar::Dispatcher($conf);
 
