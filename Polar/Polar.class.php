@@ -1,14 +1,16 @@
 <?php
 
 namespace Polar;
-
+/**
+ * 入口引导
+ */
 class Polar {
 
 
 	public static function Dispatcher () {
-	
-		
-	
+
+
+
 	}
 
 
@@ -16,7 +18,7 @@ class Polar {
 
 
 	public static function run () {
-	
+
 	}
 
 
