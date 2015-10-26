@@ -1,4 +1,6 @@
 <?php
+namespace Db\Driver;
+
 /**
  * Mongodb数据库的操作驱动类
  *

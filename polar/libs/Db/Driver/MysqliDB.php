@@ -1,5 +1,7 @@
 <?php
 
+namespace Db\Driver;
+
 class MysqliDb {
 
 	private $type ="Mysql";

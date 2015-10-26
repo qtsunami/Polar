@@ -1,4 +1,6 @@
 <?php
+namespace File;
+
 
 class Files {
 

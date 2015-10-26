@@ -1,4 +1,5 @@
 <?php
+namespace Image;
 class imageSet {
 	//验证码
 	public function verity($len = 4,$type = 'ALL') {
