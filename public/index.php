@@ -1,6 +1,10 @@
 <?php
-DEFINE('APP_PATH', __DIR__ . '../Application/');
+DEFINE('APP_PATH', __DIR__ . '/../Application/');
 
-require_once "../Polar/Polar.class.php";
+require_once "../vendor/autoload.php";
 
-Polar::Dispatcher($conf);
+
+
+# require_once "../Polar/Polar.class.php";
+
+# Polar::Dispatcher($conf);
